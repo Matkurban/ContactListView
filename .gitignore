@@ -1,0 +1,13 @@
+.gradle
+build/
+.idea
+*.iml
+.kotlin
+local.properties
+xcuserdata/
+*.xcworkspace/xcuserdata/
+contactlistview/build/
+sample/build/
+androidApp/build/
+desktopApp/build/
+webApp/build/
