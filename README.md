@@ -152,7 +152,6 @@ Run the samples:
 ## Related
 
 - [Original Flutter package](https://github.com/Matkurban/contact_list_view)
-- [Maven publishing guide (BUILD.md)](BUILD.md)
 
 ## License
 

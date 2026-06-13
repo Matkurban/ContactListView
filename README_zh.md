@@ -121,12 +121,12 @@ ContactListView(
 
 本仓库包含各平台 Demo：
 
-| 模块 | 说明 |
-|------|------|
-| `sample` | 共享 Demo UI（`App`、`ContactScreen` 等） |
-| `androidApp` | Android 示例壳工程 |
-| `desktopApp` | Compose Desktop 桌面应用 |
-| `webApp` | 浏览器应用（Wasm） |
+| 模块           | 说明                                  |
+|--------------|-------------------------------------|
+| `sample`     | 共享 Demo UI（`App`、`ContactScreen` 等） |
+| `androidApp` | Android 示例壳工程                       |
+| `desktopApp` | Compose Desktop 桌面应用                |
+| `webApp`     | 浏览器应用（Wasm）                         |
 
 运行示例：
 
@@ -152,7 +152,6 @@ ContactListView(
 ## 相关链接
 
 - [原版 Flutter 包](https://github.com/Matkurban/contact_list_view)
-- [Maven 发布指南（BUILD.md）](BUILD.md)
 
 ## 许可证
 
